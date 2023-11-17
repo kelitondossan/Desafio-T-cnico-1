@@ -2,6 +2,7 @@ Instruções para Rodar o Projeto
 Clone o repositório:
 
 ========================================================
+
 Abra o Console do Desenvolvedor:
 
 Abra o Google Chrome.
@@ -13,3 +14,7 @@ Cole e Execute o Script:
 No console, você pode digitar ou colar o código JavaScript diretamente.
 Cole o conteúdo do seu script diretamente no console.
 Pressione Enter para executar o script.
+
+Logo Após  Execute o Comando a seguir, siga o exemplo a baixo depois de excutar as instruções anteriores 
+
+Exemplo: somatorioDivisiveis3ou5(10); execute isso no console do navegador 
