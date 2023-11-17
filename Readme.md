@@ -1,6 +1,6 @@
 Instruções para Rodar o Projeto
 Clone o repositório:
-
+https://github.com/kelitondossan/Desafio-T-cnico-1.git
 ========================================================
 
 Abra o Console do Desenvolvedor:
